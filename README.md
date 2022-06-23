@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 😄
 
-<!--
-**kyongminso/kyongminso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kyongmin So and I am an aspiring data scientist with a background in finance. I just finished an intensive 15 week bootcamp with the Flatiron Schools and am ready to get started with my new career! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Ways to contact me
+<br/>
+[LinkedIn] (https://www.linkedin.com/in/kyongminso//) 
+<br/>
+[GitHub](https://github.com/kyongminso) 
+<br/>
+[Email](mailto:kyongminso@gmail.com)
